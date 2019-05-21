@@ -1,6 +1,6 @@
 owner=445325191732789248
-prefix=1
-game=1help | 1play
+prefix=6
+game=6help | 6play
 stayinchannel=true
 songinstatus=false
 token=NTc2ODAzMTI0Nzg2NzU3NjMz.XOCmUw.t5XDcDqPi5Bcgpd0WO40zsKBvzI
